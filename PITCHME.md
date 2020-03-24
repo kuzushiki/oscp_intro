@@ -1,4 +1,4 @@
-### OSCPっていう資格について語る
+### OSCPはじめました
 <br />
 @kuzushiki
 
@@ -23,16 +23,27 @@ kuzushiki（クズシキ）
 
 - **実践的なクラッキング技術**が問われる資格
 <br /><br />
-@snap[text-left]
+
 - 最近カリキュラムが更新されました!
 
 https://www.offensive-security.com/offsec/pwk-2020-update/
-@snapend
+
 <br />
-@snap[text-left text-08]
+@snap[text-08]
 - テキストの大幅な加筆
 - 練習サーバの追加
 @snapend
+
+---
+
+### 受験しようと思った理由
+<br />
+@snap[text-left]
+- 支援士は取得済み
+- CTFはやってるけど成長を感じられない
+@snapend
+<br />
+-> 何か実践的な資格が取りたいと思うように
 
 ---
 
@@ -83,17 +94,6 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 @snap[south]
 平均値は悪くない!!
 @snapend
-
----
-
-### 受験しようと思った理由
-<br />
-@snap[text-left]
-- 支援士は取得済み
-- CTFはやってるけど成長を感じられない
-@snapend
-<br />
--> 何か実践的な資格が取りたいと思うように
 
 ---
 
