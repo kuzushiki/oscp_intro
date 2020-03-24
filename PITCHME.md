@@ -23,7 +23,7 @@ kuzushiki（クズシキ）
 
 - **実践的なクラッキング技術**が問われる資格
 <br /><br />
-@snap[text-left-08]
+@snap[text-left text-08]
 - 最近カリキュラムが更新された
 https://www.offensive-security.com/offsec/pwk-2020-update/
   - テキストの大幅な加筆
@@ -45,9 +45,9 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 - 練習サーバのアクセス権60日+試験料 $1199
 - 練習サーバのアクセス権30日+試験料 $1349
 
-@snap[south span-30]
+@snap[south span-30]|
 ![okane-tobu-hane](https://user-images.githubusercontent.com/50363796/77404535-37df0800-6df5-11ea-9aba-0fd07d02df33.png)|
-@snapend
+@snapend|
 
 ---
 
@@ -88,21 +88,19 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 @snap[text-left]
 - 支援士は取得済み
 - CTFはやってるけど成長を感じられない
-
--> 何か実践的な資格が取りたい
-
-- ~~暇だから~~
+<br />
+-> 何か実践的な資格が取りたい|
+<br />
+- ~~暇だから~~|
 @snapend
 
 ---
 
 ### 進捗報告
 <br />
-- 現在約20マシン攻略済
+- 現在約`20`マシン攻略済|
 <br /><br />
-1日1~2台ペースなので、
-<br />
-もっと早く解けるように精進したい
+攻撃の流れは掴めた気がする|
 
 ---
 
