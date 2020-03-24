@@ -23,7 +23,7 @@ kuzushiki（クズシキ）
 
 - **実践的なクラッキング技術**が問われる資格
 
-@snap[text-08]
+@snap[text-08 text-left]
 - 最近カリキュラムが更新された
 https://www.offensive-security.com/offsec/pwk-2020-update/
   - テキストの大幅な加筆
@@ -44,27 +44,27 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 - 練習サーバのアクセス権30日+試験料 $999
 - 練習サーバのアクセス権60日+試験料 $1199
 - 練習サーバのアクセス権30日+試験料 $1349
-
+|
 @snap[south span-50]
 ![okane-tobu-hane](https://user-images.githubusercontent.com/50363796/77404535-37df0800-6df5-11ea-9aba-0fd07d02df33.png)
 @snapend
 
 ---
 
+@snap[north]
 ### 実際どうなの？
 
 某求人検索サービスを使って調べてみた
 (2020/3/24時点)
+@snapend
 
-@snap[south span-50]
+@snap[south span-40]
 ![FireShot Capture 031 - Oscpの求人 - Indeed (インディード) - jp indeed com](https://user-images.githubusercontent.com/50363796/77404576-4cbb9b80-6df5-11ea-8bf0-1ceb2385fc5d.png)
 @snapend
 
 ---
 
-### 調べた結果　その１
-
-@snap[north span-50]
+@snap[midpoint span-50]
 ![graph1](https://user-images.githubusercontent.com/50363796/77404622-5b09b780-6df5-11ea-9bc5-5a6f9247e9db.PNG)
 @snapend
 
@@ -72,9 +72,8 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 
 ---
 
-### 調べた結果　その２
 
-@snap[north span-50]
+@snap[midpoint span-50]
 ![graph2](https://user-images.githubusercontent.com/50363796/77404755-8d1b1980-6df5-11ea-9c56-5128277b3184.PNG)
 @snapend
 
@@ -98,7 +97,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 ### 進捗報告
 <br />
 - 現在約20マシン攻略済
-
+<br /><br />
 1日1~2台ペースなので、
 <br />
 もっと早く解けるように精進したい
@@ -106,7 +105,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 ---
 
 ### いかがでしたか？
-
-何か良いセキュリティ資格があったら教えてください!!
+<br />
+何か良い資格があったら教えてください!!
 
 ---
