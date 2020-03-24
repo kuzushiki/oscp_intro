@@ -23,7 +23,7 @@ kuzushiki（クズシキ）
 
 - **実践的なクラッキング技術**が問われる資格
 <br /><br />
-@snap[text-08 text-left]
+@snap[text-left-08]
 - 最近カリキュラムが更新された
 https://www.offensive-security.com/offsec/pwk-2020-update/
   - テキストの大幅な加筆
@@ -43,10 +43,10 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 <br />
 - 練習サーバのアクセス権30日+試験料 $999
 - 練習サーバのアクセス権60日+試験料 $1199
-- 練習サーバのアクセス権30日+試験料 $1349|
+- 練習サーバのアクセス権30日+試験料 $1349
 
 @snap[south span-30]
-![okane-tobu-hane](https://user-images.githubusercontent.com/50363796/77404535-37df0800-6df5-11ea-9aba-0fd07d02df33.png)
+![okane-tobu-hane](https://user-images.githubusercontent.com/50363796/77404535-37df0800-6df5-11ea-9aba-0fd07d02df33.png)|
 @snapend
 
 ---
@@ -67,7 +67,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 @snapend
 
 @snap[south]
-あれ……　思ったより求人少ない……
+思ったより求人少ない…
 @snapend
 
 ---
