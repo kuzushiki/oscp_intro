@@ -23,11 +23,12 @@ kuzushiki（クズシキ）
 
 - **実践的なクラッキング技術**が問われる資格
 
+@snap[text-08]
 - 最近カリキュラムが更新された
 https://www.offensive-security.com/offsec/pwk-2020-update/
-
   - テキストの大幅な加筆
   - 練習サーバの追加
+@snapend
 
 ---
 
@@ -44,21 +45,28 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 - 練習サーバのアクセス権60日+試験料 $1199
 - 練習サーバのアクセス権30日+試験料 $1349
 
+@snap[south span-50]
 ![okane-tobu-hane](https://user-images.githubusercontent.com/50363796/77404535-37df0800-6df5-11ea-9aba-0fd07d02df33.png)
+@snapend
 
 ---
 
 ### 実際どうなの？
 
 某求人検索サービスを使って調べてみた
+(2020/3/24時点)
 
+@snap[south span-50]
 ![FireShot Capture 031 - Oscpの求人 - Indeed (インディード) - jp indeed com](https://user-images.githubusercontent.com/50363796/77404576-4cbb9b80-6df5-11ea-8bf0-1ceb2385fc5d.png)
+@snapend
 
 ---
 
 ### 調べた結果　その１
 
+@snap[north span-50]
 ![graph1](https://user-images.githubusercontent.com/50363796/77404622-5b09b780-6df5-11ea-9bc5-5a6f9247e9db.PNG)
+@snapend
 
 あれ……　思ったより求人少ない……
 
@@ -66,29 +74,36 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 
 ### 調べた結果　その２
 
+@snap[north span-50]
 ![graph2](https://user-images.githubusercontent.com/50363796/77404755-8d1b1980-6df5-11ea-9c56-5128277b3184.PNG)
+@snapend
 
-平均値は悪くない
+平均値は悪くない!!
 
 ---
 
 ### 受験しようと思った理由
-
+<br />
+@snap[text-left]
 - 支援士は取得済み
 - CTFはやってるけど成長を感じられない
 
 -> 何か実践的な資格が取りたい
 
 - ~~暇だから~~
+@snapend
 
 ---
 
 ### 進捗報告
-
+<br />
 - 現在約20マシン攻略済
 
 1日1~2台ペースなので、
+<br />
 もっと早く解けるように精進したい
+
+---
 
 ### いかがでしたか？
 
