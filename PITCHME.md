@@ -22,7 +22,7 @@ kuzushiki（クズシキ）
 **O**ffensive **S**ecurity **C**ertified **P**rofessional
 
 - **実践的なクラッキング技術**が問われる資格
-
+<br /><br />
 @snap[text-08 text-left]
 - 最近カリキュラムが更新された
 https://www.offensive-security.com/offsec/pwk-2020-update/
@@ -43,9 +43,9 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 <br />
 - 練習サーバのアクセス権30日+試験料 $999
 - 練習サーバのアクセス権60日+試験料 $1199
-- 練習サーバのアクセス権30日+試験料 $1349
-|
-@snap[south span-50]
+- 練習サーバのアクセス権30日+試験料 $1349|
+
+@snap[south span-30]
 ![okane-tobu-hane](https://user-images.githubusercontent.com/50363796/77404535-37df0800-6df5-11ea-9aba-0fd07d02df33.png)
 @snapend
 
@@ -53,8 +53,6 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 
 @snap[north]
 ### 実際どうなの？
-
-某求人検索サービスを使って調べてみた
 (2020/3/24時点)
 @snapend
 
@@ -64,20 +62,24 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 
 ---
 
-@snap[midpoint span-50]
+@snap[midpoint span-80]
 ![graph1](https://user-images.githubusercontent.com/50363796/77404622-5b09b780-6df5-11ea-9bc5-5a6f9247e9db.PNG)
 @snapend
 
+@snap[south]
 あれ……　思ったより求人少ない……
+@snapend
 
 ---
 
 
-@snap[midpoint span-50]
+@snap[midpoint span-80]
 ![graph2](https://user-images.githubusercontent.com/50363796/77404755-8d1b1980-6df5-11ea-9c56-5128277b3184.PNG)
 @snapend
 
+@snap[south]
 平均値は悪くない!!
+@snapend
 
 ---
 
