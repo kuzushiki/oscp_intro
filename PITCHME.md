@@ -23,9 +23,13 @@ kuzushiki（クズシキ）
 
 - **実践的なクラッキング技術**が問われる資格
 <br /><br />
-@snap[text-left text-08]
-- 最近カリキュラムが更新されました!
+@snap[text-left]
+最近カリキュラムが更新されました!
+<br />
 https://www.offensive-security.com/offsec/pwk-2020-update/
+@snapend
+<br />
+@snap[text-left text-08]
 - テキストの大幅な加筆
 - 練習サーバの追加
 @snapend
@@ -88,9 +92,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 @snap[text-left]
 - 支援士は取得済み
 - CTFはやってるけど成長を感じられない
-<br />
-- >> 何か実践的な資格が取りたい|
-<br />
+- -> 何か実践的な資格が取りたい|
 - ~~暇だから~~|
 @snapend
 
