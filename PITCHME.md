@@ -25,9 +25,7 @@ kuzushiki（クズシキ）
 <br /><br />
 @snap[text-left]
 - 最近カリキュラムが更新されました!
-@snapend
-<br />
-@snap[text-left]
+
 https://www.offensive-security.com/offsec/pwk-2020-update/
 @snapend
 <br />
@@ -94,7 +92,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 - 支援士は取得済み
 - CTFはやってるけど成長を感じられない
 @snapend
-<br /><br />
+<br />
 -> 何か実践的な資格が取りたいと思うように
 
 ---
