@@ -17,7 +17,9 @@ kuzushiki（クズシキ）
 
 ---
 
+@snap[text-08]
 ### 【悲報】情報処理技術者試験が中止に
+@snapend
 
 ![FireShot Capture 032 - IPA 独立行政法人 情報処理推進機構：情報処理技術者試験：令和2年度春期情報処理技術者試験・情報処理安全確保支援士試験の取りやめ（中止）_ - www jitec ipa go jp](https://user-images.githubusercontent.com/50363796/77411454-d1131c00-6dff-11ea-82e5-87c3ee6c8d36.png)
 
