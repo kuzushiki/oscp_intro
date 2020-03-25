@@ -20,7 +20,7 @@ kuzushiki（クズシキ）
 @snap[text-08]
 ### 【悲報】情報処理技術者試験が中止に
 @snapend
-
+<br /><br />
 ![FireShot Capture 032 - IPA 独立行政法人 情報処理推進機構：情報処理技術者試験：令和2年度春期情報処理技術者試験・情報処理安全確保支援士試験の取りやめ（中止）_ - www jitec ipa go jp](https://user-images.githubusercontent.com/50363796/77411454-d1131c00-6dff-11ea-82e5-87c3ee6c8d36.png)
 
 ---
@@ -47,7 +47,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 ### 受験しようと思った理由
 <br />
 @snap[text-left]
-- 支援士は取得済み
+- 情報処理安全確保支援士は取得済み
 - CTFはやってるけど成長を感じられない
 @snapend
 <br />
@@ -79,7 +79,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 (2020/3/24時点)
 @snapend
 
-@snap[south span-40]
+@snap[south span-60]
 ![FireShot Capture 031 - Oscpの求人 - Indeed (インディード) - jp indeed com](https://user-images.githubusercontent.com/50363796/77404576-4cbb9b80-6df5-11ea-8bf0-1ceb2385fc5d.png)
 @snapend
 
@@ -100,7 +100,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 @snapend
 
 @snap[south]
-平均値は悪くない!!
+給料は悪くない!!
 @snapend
 
 ---
@@ -113,8 +113,8 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 
 ---
 
-### いかがでしたか？
+### OSCPはじめませんか？
 <br />
-何か良い資格があったら教えてください!!
+良い資格があったら教えてください!!
 
 ---
