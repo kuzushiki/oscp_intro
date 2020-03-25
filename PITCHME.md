@@ -33,11 +33,12 @@ kuzushiki（クズシキ）
 <br /><br />
 @snap[text-08]
 最近カリキュラムが更新されました!
-<br />
+
 https://www.offensive-security.com/offsec/pwk-2020-update/
-<br />
-- テキストの大幅な加筆
-- 練習サーバの追加
+
+テキストの大幅な加筆
+
+練習サーバの追加
 @snapend
 
 ---
@@ -45,9 +46,9 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 ### 受験しようと思った理由
 <br />
 - 情報処理安全確保支援士は取得済み
-<br />
+<br /><br />
 - CTFはやってるけど成長を感じられない
-<br />
+<br /><br />
 -> 何か実践的な資格が取りたいと思うように
 
 ---
@@ -76,7 +77,7 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 (2020/3/24時点)
 @snapend
 
-@snap[south span-50]
+@snap[south span-45]
 ![FireShot Capture 031 - Oscpの求人 - Indeed (インディード) - jp indeed com](https://user-images.githubusercontent.com/50363796/77404576-4cbb9b80-6df5-11ea-8bf0-1ceb2385fc5d.png)
 @snapend
 
