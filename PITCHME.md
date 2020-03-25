@@ -34,11 +34,11 @@ kuzushiki（クズシキ）
 @snap[text-08]
 最近カリキュラムが更新されました!
 
+- テキストの大幅な加筆
+- 練習サーバの追加
+
 https://www.offensive-security.com/offsec/pwk-2020-update/
 
-テキストの大幅な加筆
-
-練習サーバの追加
 @snapend
 
 ---
@@ -46,7 +46,6 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 ### 受験しようと思った理由
 <br />
 - 情報処理安全確保支援士は取得済み
-<br /><br />
 - CTFはやってるけど成長を感じられない
 <br /><br />
 -> 何か実践的な資格が取りたいと思うように
