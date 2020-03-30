@@ -115,3 +115,17 @@ https://www.offensive-security.com/offsec/pwk-2020-update/
 他に良い資格があったら教えてください!!
 
 ---
+
+### 参考リンク集
+
+- [OSCP申し込みページ](https://www.offensive-security.com/pwk-oscp/?utm_source=adwords&utm_term=oscp&utm_campaign=&utm_medium=ppc&hsa_mt=b&hsa_ad=416961635915&hsa_net=adwords&hsa_src=g&hsa_kw=oscp&hsa_tgt=kwd-304102459&hsa_cam=9268031692&hsa_acc=7794287291&hsa_ver=3&hsa_grp=95689856764&gclid=Cj0KCQjwjoH0BRD6ARIsAEWO9DvbG0YzqH2xa_Tl6QsF456q7X0V8TRDpknhdGlmn9aiRoZGvv_v5rkaAuSWEALw_wcB)
+
+- [【OSCP取得奮闘記】難関セキュリティ資格を攻略してみた！](https://www.wantedly.com/companies/ubsecure/post_articles/196759)
+
+- [資格「OSCP」について - 這いよれ Pentest Lab - Medium](https://medium.com/yuikuras-cracking-lab/%E8%B3%87%E6%A0%BC-oscp-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-3846cab4bd40)
+
+- [OSCP受験記（備忘録）- TOEFLとiELTSとカナダ留学と・・・その他諸々。](http://studycanada.hatenadiary.com/entry/2019/01/15/221212)
+
+- [OSCP 受験記 - dr's tech memo](https://blog.drmn.jp/2018/04/oscp.html)
+
+---
